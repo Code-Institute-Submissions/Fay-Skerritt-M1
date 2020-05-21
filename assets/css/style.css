@@ -1,0 +1,22 @@
+body h1, h2, h3, h4, h5, h6 {
+    font-family: "DM Serif Text", sans-serif;
+}
+
+body p {
+    font-family: "Roboto", sans-serif;
+}
+
+#title {
+    font-size: 13vw;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.section-heading, .section-sub, #title, .title-sub {
+    text-align: center;
+}
+
+.title-sub {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
