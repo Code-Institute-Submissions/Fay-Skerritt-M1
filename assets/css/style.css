@@ -1,3 +1,4 @@
+/*----------------------------------------- Font & Padding */
 body h1, h2, h3, h4, h5, h6 {
     font-family: "DM Serif Text", sans-serif;
 }
@@ -45,15 +46,19 @@ header {
     background-color: #000;
 }
 
-/*----------------------------------------- Sticky Header from W3Schools.com */
+/*----------------------------------------- Sticky Header from W3Schools.com 
+https://www.w3schools.com/howto/howto_js_sticky_header.asp*/
 .main-content {
   padding: 16px;
+  background: radial-gradient(circle 500px, #e9b4a3 50%, #fff 50%) no-repeat fixed center;
+
+
 }
 
 .sticky {
   position: fixed;
   top: 0;
-  width: 100%
+  width: 100%;
 }
 
 .sticky + .main-content {
