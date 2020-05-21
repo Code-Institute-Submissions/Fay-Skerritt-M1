@@ -45,3 +45,17 @@ header {
     background-color: #000;
 }
 
+/*----------------------------------------- Sticky Header from W3Schools.com */
+.main-content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .main-content {
+  padding-top: 102px;
+}
