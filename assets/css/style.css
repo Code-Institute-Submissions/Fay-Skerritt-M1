@@ -18,8 +18,9 @@ body p {
 }
 
 .title-sub {
-    padding-top: 50px;
-    padding-bottom: 100px;
+  
+    padding: 50px 100px 100px 100px;
+    font-size: 5vw;
 }
 
 
@@ -40,13 +41,23 @@ header {
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
     font-size: 25px;
+
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #e9b4a3;
+}
+
 
 .navbar {
     background-color: #000;
 }
 
-/*----------------------------------------- Sticky Header from W3Schools.com 
+/*----------------------------------------- Sticky Background from W3Schools.com 
 https://www.w3schools.com/howto/howto_js_sticky_header.asp*/
 .main-content {
   padding: 16px;
@@ -64,3 +75,48 @@ https://www.w3schools.com/howto/howto_js_sticky_header.asp*/
 .sticky + .main-content {
   padding-top: 102px;
 }
+
+/*----------------------------------------- Footer */
+
+.footer-item > h6, h5 {
+    font-family: "DM Serif Text", sans-serif;
+    text-align: center;
+    color: #fff;
+    padding: 8px;
+    font-weight: 300;
+}
+
+.footer {
+    background-color: #000;
+    padding-top: 10px;
+}
+
+.socials {
+    text-align: center;
+}
+
+.footer-link {
+    color: #fff;
+    font-size: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.footer-link:hover {
+    color: #e9b4a3;
+}
+
+.copyright {
+    margin: 0;
+    padding: 0;
+    border: 1px solid rgb(109, 109, 109, .5);
+}
+
+
+
+
