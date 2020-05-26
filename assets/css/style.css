@@ -202,16 +202,12 @@ ul.timeline > li:before {
     font-size: 20px;
 }
 
-.contact-form input {
+.contact-form input, textarea {
     font-family: "Roboto", sans-serif;
 }
 
-
-
-
 /*----------------------------------------- Media Queries */
 
-/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
 @media screen and (min-width: 992px) {
     .timeline-date {
         font-size: 12px;
@@ -224,7 +220,6 @@ ul.timeline > li:before {
     }
 }
 
-/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
 @media screen and (max-width: 991px) {
     .timeline-date {
         font-size: 15px;
