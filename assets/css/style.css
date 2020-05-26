@@ -3,6 +3,7 @@ body h1, h2, h3, h4, h5, h6 {
     font-family: "DM Serif Text", sans-serif;
     padding-top: 20px;
     padding-bottom: 20px;
+    text-align: center;
 }
 
 body p {
@@ -15,9 +16,9 @@ body p {
     padding-bottom: 100px;
 }
 
-.section-heading, .section-sub, #title, .title-sub {
+/* .section-heading, .section-sub, #title, .title-sub {
     text-align: center;
-}
+} */
 
 .section-heading {
     border-top: 1px solid #000;
@@ -146,6 +147,19 @@ div img {
 
 /*----------------------------------------- Education */
 
+.education {
+    list-style-type: none;
+}
+
+.institution {
+    font-family: "DM Serif Text", sans-serif;
+}
+
+.education-logo {
+    height: 20px;
+    width: 20px;
+    margin: 2px;
+}
 
 /*----------------------------------------- Experience */
 /* inspiration for timeline from https://bootsnipp.com/snippets/xrKXW */
@@ -212,7 +226,7 @@ ul.timeline > li:before {
     .timeline-date {
         font-size: 12px;
     }
-    .company {
+    .company, .institution {
         font-size: 25px;
     }
     .role {
@@ -224,7 +238,7 @@ ul.timeline > li:before {
     .timeline-date {
         font-size: 15px;
     }
-    .company {
+    .company, .institution {
         font-size: 30px;
     }
     .role {
@@ -236,7 +250,7 @@ ul.timeline > li:before {
     .timeline-date {
         font-size: 12px;
     }
-    .company {
+    .company, .institution {
         font-size: 25px;
     }
     .role {
@@ -248,7 +262,7 @@ ul.timeline > li:before {
     .timeline-date {
         font-size: 10px;
     }
-    .company {
+    .company, .institution {
         font-size: 18px;
     }
 }
