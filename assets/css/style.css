@@ -20,7 +20,7 @@ body p {
 }
 
 .title-sub {
-    padding: 50px 100px 100px 100px;
+    padding: 50px;
     font-size: 5vw;
 }
 
@@ -37,7 +37,10 @@ body p {
 
 header {
     font-family: "DM Serif Text", sans-serif;
-    z-index: 500;
+}
+
+nav {
+    z-index: 100;
 }
 
 .navbar {
@@ -68,6 +71,7 @@ https://www.w3schools.com/howto/howto_js_sticky_header.asp*/
 .main-content {
   padding: 16px;
   background: radial-gradient(circle 500px, #e9b4a3 50%, #fff 50%) no-repeat fixed center;
+  z-index: 1;
 }
 
 .sticky {
