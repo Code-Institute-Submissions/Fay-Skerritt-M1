@@ -1,6 +1,8 @@
 /*----------------------------------------- Font & Padding */
 body h1, h2, h3, h4, h5, h6 {
     font-family: "DM Serif Text", sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 body p {
@@ -35,6 +37,7 @@ body p {
 
 header {
     font-family: "DM Serif Text", sans-serif;
+    z-index: 500;
 }
 
 .navbar {
@@ -55,15 +58,8 @@ header {
     color: #e9b4a3;
 }
 
-.navbar-brand {
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.navbar-brand:hover {
-    color: #e9b4a3;
+.navbar-collapse {
+    text-align: center;
 }
 
 
@@ -72,8 +68,6 @@ https://www.w3schools.com/howto/howto_js_sticky_header.asp*/
 .main-content {
   padding: 16px;
   background: radial-gradient(circle 500px, #e9b4a3 50%, #fff 50%) no-repeat fixed center;
-
-
 }
 
 .sticky {
@@ -128,5 +122,8 @@ https://www.w3schools.com/howto/howto_js_sticky_header.asp*/
 }
 
 
+/*----------------------------------------- About Me */
 
-
+div img {
+    width: 100%;
+}
