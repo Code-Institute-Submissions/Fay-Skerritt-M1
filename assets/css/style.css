@@ -1,8 +1,8 @@
 /*----------------------------------------- Font & Padding */
 body h1, h2, h3, h4, h5, h6 {
     font-family: "DM Serif Text", sans-serif;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 body p {
@@ -20,7 +20,7 @@ body p {
 }
 
 .title-sub {
-    padding: 50px;
+    padding: 30px 20px 50px 20px;
     font-size: 5vw;
 }
 
@@ -130,6 +130,11 @@ https://www.w3schools.com/howto/howto_js_sticky_header.asp*/
 
 div img {
     width: 100%;
+}
+
+.progress {
+    height: 20px;
+    margin: 5px;
 }
 
 /*----------------------------------------- Contact Me */
