@@ -1,39 +1,45 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome fayskerritt,
+# **Fay Skerritt**
+### **Milestone project 1: User-Centric Frontend Development - Code Institute**
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+A personal webpage displaying personal skills and experience to attract recruiters as well as those looking to collaborate. 
+The weboage provides a summary of skills, work history and education with an option to download a copy of a pdf CV for more information. 
+There is also an area where any questions can be submitted.
 
-## Gitpod Reminders
+# **REMEMBER TO GIT COMMIT AND PUSH!!!!!!**
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## UX
+To make the website stand out as a potential candidate a clear and easily read one page layout was chosen which flows through the information needed and looks nice.
 
-`python3 -m http.server`
+### Uaer Stories
+* As a recruiter, I want to view a person's skills, so that I can decide whether they have the correct skills for an open role.
+* As a recruiter, I want to view a person's education history, so that I can ensure they have the correct credentials for an open role.
+* As a recruiter, I want to view a person's work experience history, so that I can ensure they have the correct experience for an open role.
+* As a recruiter, I want to obtain a CV, so that I can share this with companies or individuals.
+• As a recruiter, I want to ask a question, so that I can find out more details or invite someone to an interview.
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+### Strategy
+It was decided that the site would be aimed at recruiters and individuals or companies looking to collaborate with a developer by supplying them with all the information they need to promote myself as a developer.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Scope
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+### Structure
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+### Skeleton
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+### Surface
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+`code text`
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+*Italics*,
+ 
+**Bold** 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+<a href="#" target="_blank">A link with text instead of url</a> with text after
 
 --------
-
-Happy coding!
+^ a line

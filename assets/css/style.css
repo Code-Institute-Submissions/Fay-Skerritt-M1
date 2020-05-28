@@ -144,6 +144,18 @@ div img {
     margin: 5px;
 }
 
+.link {
+    color: #000;
+
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.link:hover {
+    color: #5a5a5a;
+}
 
 /*----------------------------------------- Education */
 
