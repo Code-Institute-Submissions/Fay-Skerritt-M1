@@ -80,6 +80,7 @@ So that the site deploys correctly the landing page has been named `index.html`.
 ### **Content**
 * Fixed Background with radial gradient was copied from - <a href="https://www.w3schools.com/howto/howto_js_sticky_header.asp" target="_blank">W3schools.com</a>
 * Work Experience Timeline was copied from - <a href="https://bootsnipp.com/snippets/xrKXW" target="_blank">Bootsnip.com</a>
+* Media Queries for Responsive text were copied from - <a href="https://www.w3schools.com/howto/howto_css_responsive_text.asp" target="_blank">W3schools.com</a>
 
 ### **Media**
 * All images are my own. 

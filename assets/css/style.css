@@ -232,7 +232,8 @@ ul.timeline > li:before {
     font-family: "Roboto", sans-serif;
 }
 
-/*----------------------------------------- Media Queries */
+/*----------------------------------------- Media Queries 
+inspiration taken from - https://www.w3schools.com/howto/howto_css_responsive_text.asp*/
 
 @media screen and (min-width: 992px) {
     .timeline-date {
