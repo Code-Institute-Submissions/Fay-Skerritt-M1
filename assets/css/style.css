@@ -173,6 +173,11 @@ div img {
     margin: 2px;
 }
 
+.resume-card-wrapper {
+    background: rgba(0,0,0,0.6);
+    padding: 5px;
+}
+
 /*----------------------------------------- Experience */
 /* inspiration for timeline from https://bootsnipp.com/snippets/xrKXW */
 
