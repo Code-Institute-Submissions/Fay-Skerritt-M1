@@ -299,10 +299,12 @@ ul.timeline > li:before {
         z-index: 1;
     }  
     #title {
-        font-size: 15vw;
+        font-size: 6rem;
+        padding-top: 150px;
+        padding-bottom: 0;
     }
     .subtitle {
-        font-size: 7vw;
+        font-size: 2.5rem;
     }
 }
 
