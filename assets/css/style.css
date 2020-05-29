@@ -238,6 +238,10 @@ ul.timeline > li:before {
     z-index: 20;
 }
 
+.timeline-date {
+    padding-right: 15px;
+}
+
 /*----------------------Contact Me----------------------*/
 
 .contact-form {
@@ -255,6 +259,14 @@ ul.timeline > li:before {
 .contact-prompt {
     text-align: center;
     padding-top: 0;
+    font-size: 20px;
+}
+
+.button {
+    color: #000;
+    font-size: 20px;
+    background-color: #e9b4a3;
+    border: 3px solid #d8a694;
 }
 
 /*----------------------Media Queries----------------------*/
