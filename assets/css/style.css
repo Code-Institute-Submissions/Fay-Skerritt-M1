@@ -22,13 +22,18 @@ body {
     margin-top: 100px;
 }
 
-.title-sub {
+.subtitle {
     font-family: "DM Serif Text", sans-serif;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
     padding: 30px 20px 50px 20px;
     font-size: 5vw;
+}
+
+.sub-heading {
+    font-family: "DM Serif Text", sans-serif;
+
 }
 
 
@@ -75,8 +80,7 @@ nav {
 }
 
 
-/*----------------------------------------- Sticky Background from W3Schools.com 
-https://www.w3schools.com/howto/howto_js_sticky_header.asp*/
+/*----------------------Sticky Background----------------------*/
 .main-content {
   padding: 16px;
   background: radial-gradient(circle 500px, #e9b4a3 50%, #fff 50%) no-repeat fixed center;
@@ -234,6 +238,11 @@ ul.timeline > li:before {
 
 .contact-form input, textarea {
     font-family: "Roboto", sans-serif;
+}
+
+.contact-prompt {
+    text-align: center;
+    padding-top: 0;
 }
 
 /*----------------------------------------- Media Queries 
