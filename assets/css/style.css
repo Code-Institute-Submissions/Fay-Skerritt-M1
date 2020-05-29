@@ -33,7 +33,8 @@ body {
 
 .sub-heading {
     font-family: "DM Serif Text", sans-serif;
-
+    padding-top: 25px;
+    padding-bottom: 10px;
 }
 
 
@@ -138,8 +139,14 @@ nav {
 
 /*----------------------------------------- About Me */
 
-div img {
+.fay-img {
     width: 100%;
+}
+
+.about-me {
+    font-size: 1.3rem;
+    letter-spacing: 0.05em;
+    line-height: 2.03em;
 }
 
 .progress {
