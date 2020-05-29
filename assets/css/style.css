@@ -188,6 +188,7 @@ nav {
 .resume-card-wrapper {
     background: rgba(236, 225, 222, 0.5);
     padding: 5px;
+    border-radius: 2%;
 }
 
 /*----------------------Experience----------------------*/
