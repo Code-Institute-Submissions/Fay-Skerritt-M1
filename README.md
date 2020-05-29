@@ -6,8 +6,6 @@ A personal webpage displaying personal skills and experience to attract recruite
 The weboage provides a summary of skills, work history and education with an option to download a copy of a pdf CV for more information. 
 There is also an area where any questions can be submitted.
 
-# **REMEMBER TO GIT COMMIT AND PUSH!!!!!!**
-
 ## UX
 To make the website stand out as a potential candidate a clear and easily read one page layout was chosen which flows through the information needed and looks nice.
 
@@ -31,7 +29,6 @@ Each section should give enough information for a recruiter to learn enough abou
 
 ### Skeleton
 Figma was used to design a wireframe, you can view it below or <a href="https://www.figma.com/file/RdOmB4ks8GmqkZWuD6E7LU/Milestone-1-wireframe?node-id=212512%3A0" target="_blank">here</a>
-<!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRdOmB4ks8GmqkZWuD6E7LU%2FMilestone-1-wireframe%3Fnode-id%3D212512%253A0&chrome=DOCUMENTATION" allowfullscreen></iframe> -->
 
 ### Surface
 The font and colours were decided on because they need to stand out, but also look nice, so by using black text on a pale background this makes the weboage easy to read. It was also decided that the background would be fixed so that as you scroll you have a constant circular background.
