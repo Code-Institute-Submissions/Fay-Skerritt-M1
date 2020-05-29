@@ -1,4 +1,4 @@
-/*----------------------------------------- Font & Padding */
+/*----------------------Font & Padding----------------------*/
 body {
     font-family: "Roboto", sans-serif;
 }
@@ -37,9 +37,7 @@ body {
     padding-bottom: 10px;
 }
 
-
-
-/*----------------------------------------- Nav Bar */
+/*----------------------Nav Bar----------------------*/
 
 .logo {
     left: 0;
@@ -95,7 +93,7 @@ nav {
 }
 
 
-/*----------------------------------------- Footer */
+/*----------------------Footer----------------------*/
 
 .footer-item > h6, h5 {
     font-family: "DM Serif Text", sans-serif;
@@ -137,7 +135,7 @@ nav {
 }
 
 
-/*----------------------------------------- About Me */
+/*----------------------About Me----------------------*/
 
 .fay-img {
     width: 100%;
@@ -167,7 +165,7 @@ nav {
     color: #5a5a5a;
 }
 
-/*----------------------------------------- Education */
+/*----------------------Education----------------------*/
 
 .education {
     list-style-type: none;
@@ -188,8 +186,7 @@ nav {
     padding: 5px;
 }
 
-/*----------------------------------------- Experience */
-/* inspiration for timeline from https://bootsnipp.com/snippets/xrKXW */
+/*----------------------Experience----------------------*/
 
 
 .company {
@@ -233,7 +230,7 @@ ul.timeline > li:before {
     z-index: 20;
 }
 
-/*----------------------------------------- Contact Me */
+/*----------------------Contact Me----------------------*/
 
 .contact-form {
     font-family: "DM Serif Text", sans-serif;
@@ -252,8 +249,7 @@ ul.timeline > li:before {
     padding-top: 0;
 }
 
-/*----------------------------------------- Media Queries 
-inspiration taken from - https://www.w3schools.com/howto/howto_css_responsive_text.asp*/
+/*----------------------Media Queries----------------------*/
 
 @media screen and (min-width: 992px) {
     .timeline-date {
