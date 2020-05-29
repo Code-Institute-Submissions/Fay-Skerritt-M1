@@ -5,11 +5,9 @@ body {
 
 #title {
     font-family: "DM Serif Text", sans-serif;
-    padding-top: 20px;
-    padding-bottom: 20px;
     text-align: center;
     font-size: 13vw;
-    padding-top: 100px;
+    padding-top: 200px;
     padding-bottom: 100px;
 }
 
@@ -28,7 +26,7 @@ body {
     padding-bottom: 20px;
     text-align: center;
     padding: 30px 20px 50px 20px;
-    font-size: 5vw;
+    font-size: 6vw;
 }
 
 .sub-heading {
@@ -296,6 +294,12 @@ ul.timeline > li:before {
         background: radial-gradient(circle 500px, #e9b4a3 50%, #fff 50%) no-repeat fixed center;
         z-index: 1;
     }  
+    #title {
+        font-size: 15vw;
+    }
+    .subtitle {
+        font-size: 7vw;
+    }
 }
 
 @media screen and (max-width: 480px) {
