@@ -83,7 +83,7 @@ nav {
 /*----------------------Sticky Background----------------------*/
 .main-content {
   padding: 16px;
-  background: radial-gradient(circle 500px, #e9b4a3 50%, #fff 50%) no-repeat fixed center;
+  background: radial-gradient(circle 500px, #e9b4a3 70%, #fff 70%) no-repeat fixed center;
   z-index: 1;
 }
 
@@ -291,6 +291,11 @@ ul.timeline > li:before {
     .role {
         font-size: 12px;
     }
+    .main-content {
+        padding: 16px;
+        background: radial-gradient(circle 500px, #e9b4a3 50%, #fff 50%) no-repeat fixed center;
+        z-index: 1;
+    }  
 }
 
 @media screen and (max-width: 480px) {
