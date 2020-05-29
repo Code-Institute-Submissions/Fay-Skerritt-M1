@@ -9,7 +9,7 @@ There is also an area where any questions can be submitted.
 ## UX
 To make the website stand out as a potential candidate a clear and easily read one page layout was chosen which flows through the information needed and looks nice.
 
-### User Stories
+#### User Stories
 * As a recruiter, I want to view a person's skills, so that I can decide whether they have the correct skills for an open role.
 * As a recruiter, I want to view a person's education history, so that I can ensure they have the correct credentials for an open role.
 * As a recruiter, I want to view a person's work experience history, so that I can ensure they have the correct experience for an open role.
@@ -18,19 +18,19 @@ To make the website stand out as a potential candidate a clear and easily read o
 * As a recruiter, I want to view a person's portfolio, so that I can see their quality of work.
 
 
-### Strategy
+#### Strategy
 It was decided that the site would be aimed at recruiters and individuals or companies looking to collaborate with a developer by supplying them with all the information they need to promote myself as a developer.
 
-### Scope
+#### Scope
 The main features thought to be the most important were; an about me section to give some background information, a resume section to outline skills and education/experience, finally with a ocntact page to make it easy to contact me.
 
-### Structure
+#### Structure
 Each section should give enough information for a recruiter to learn enough about the candidate to make a decision on whether they want to find out more, there is then an option to download a pdf version of a CV so that the webpage is not crammed full of information which will most probably not be as eye catching.
 
-### Skeleton
+#### Skeleton
 Figma was used to design a wireframe, you can view it below or <a href="https://www.figma.com/file/RdOmB4ks8GmqkZWuD6E7LU/Milestone-1-wireframe?node-id=212512%3A0" target="_blank">here</a>
 
-### Surface
+#### Surface
 The font and colours were decided on because they need to stand out, but also look nice, so by using black text on a pale background this makes the weboage easy to read. It was also decided that the background would be fixed so that as you scroll you have a constant circular background.
 
 ## Features
@@ -43,7 +43,7 @@ The font and colours were decided on because they need to stand out, but also lo
 * Work Experience Timeline - also as seen in a module the timeline view is a good way to present a timeline of jobs I have had.
 * Download CV Link - for any recruiters that wish to view a pdf version of my CV there is a link in the footer which will open it in a new tab.
 
-### **Features to be implemented in the future**
+#### **Features to be implemented in the future**
 * Modal Box for CV download - to give the recruiter an option to either download the CV as a pdf or have it sent to an email address.
 * Add a location for Contact Me form - when the Contact Me form is filled out the information will be sent to an email address so that a reply can be sent.
 
@@ -74,15 +74,15 @@ This site is hosted on GitHub using GitHub pages, deployed directly from the mas
 So that the site deploys correctly the landing page has been named `index.html`.
 
 ## Credits
-### **Content**
+### Content
 * Fixed Background with radial gradient was copied from - <a href="https://www.w3schools.com/howto/howto_js_sticky_header.asp" target="_blank">W3schools.com</a>
 * Work Experience Timeline was copied from - <a href="https://bootsnipp.com/snippets/xrKXW" target="_blank">Bootsnip.com</a>
 * Media Queries for Responsive text were copied from - <a href="https://www.w3schools.com/howto/howto_css_responsive_text.asp" target="_blank">W3schools.com</a>
 
-### **Media**
+### Media
 * All images are my own. 
 * The logo is also my own.
 
-### **Acknowledgements**
+### Acknowledgements
 * Inspiration taken from the User Centric Frontend Module of the course for the collapsing Navbar and progress bars to display skills.
 
