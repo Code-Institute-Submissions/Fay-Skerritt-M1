@@ -181,8 +181,6 @@ nav {
     border-radius: 2%;
 }
 
-/*----------------------Education----------------------*/
-
 .education {
     list-style-type: none;
 }
@@ -198,9 +196,6 @@ nav {
     width: 20px;
     margin: 2px;
 }
-
-/*----------------------Experience----------------------*/
-
 
 .company {
     font-family: "DM Serif Text", sans-serif;
