@@ -6,6 +6,11 @@ A personal webpage displaying personal skills and experience to attract recruite
 The weboage provides a summary of skills, work history and education with an option to download a copy of a pdf CV for more information. 
 There is also an area where any questions can be submitted.
 
+## Demo
+Live demo can be viewed <a href="https://fayskerritt.github.io/Fay-Skerritt-M1/index.html" target="_blank">here</a>
+
+![](mockup/responsive-mockup.png)
+
 ## UX
 To make the website stand out as a potential candidate a clear and easily read one page layout was chosen which flows through the information needed and looks nice.
 
@@ -68,6 +73,10 @@ Download CV:
 
 Social Media Links:
 * Tested all links to ensure the correct social media account opened in a new tab
+
+The following online resources were used to test the site:
+* <a href="https://validator.w3.org/" target="_blank">W3C HTML Validator</a> to check the markup validity of the Web documents in HTML
+* <a href="https://jigsaw.w3.org/css-validator/" target="_blank">W3C CSS Validator</a> to check the markup validity of Web documents in CSS
 
 ## Deployment
 This site is hosted on GitHub using GitHub pages, deployed directly from the master branch. The site will update automatically after any new commits from the master branch. 
