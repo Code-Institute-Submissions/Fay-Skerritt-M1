@@ -9,6 +9,7 @@ body {
     font-family: "DM Serif Text", sans-serif;
     text-align: center;
     font-size: 13vw;
+    display: block;
     padding-top: 200px;
     padding-bottom: 70px;
 }
@@ -26,6 +27,7 @@ body {
 .subtitle {
     font-family: "DM Serif Text", sans-serif;
     text-align: center;
+    display: block;
     padding: 10px 20px 50px 20px;
     font-size: 6vw;
 }
@@ -159,6 +161,7 @@ nav {
 
 .link {
     color: #000;
+    font-weight: 500;
 
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
