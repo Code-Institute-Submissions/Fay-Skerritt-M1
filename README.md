@@ -89,8 +89,8 @@ So that the site deploys correctly the landing page has been named `index.html`.
 * Media Queries for Responsive text were copied from - <a href="https://www.w3schools.com/howto/howto_css_responsive_text.asp" target="_blank">W3schools.com</a>
 
 #### Media
-* All images are my own. 
-* The logo is also my own.
+* All images are my own or from the relevant institution. 
+* The site logo is also my own.
 
 #### Acknowledgements
 * Inspiration taken from the User Centric Frontend Module of the course for the collapsing Navbar and progress bars to display skills.
